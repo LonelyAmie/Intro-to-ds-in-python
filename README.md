@@ -1,2 +1,5 @@
-# Intro-to-ds-in-python
-course provided by michigan university
+# Intro-to-data-science-in-python
+[course](https://www.coursera.org/learn/python-data-analysis) provided by michigan university
+this repo contains all the assignments for the course 
+
+
